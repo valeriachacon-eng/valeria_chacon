@@ -6,6 +6,6 @@
 
 [✉️ Entre em contato] (mailto: valeriasofiaorencechacon@gmail.com.)
 
-<a href="mailto:seu.email@exemplo.com">
-  <img src="https://img.shields.io" alt="Email" />
+<a href="mailto: valeriasofiaorencechacon@gmail.com">
+  <img src="✉️" alt="Entre em contato" />
 </a>
