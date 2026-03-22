@@ -21,7 +21,7 @@ Meu nome é Valeria Sofia Orence Chacon, tenho 18 anos e sou amante da tecnologi
 
 
 ## 🎓 Formação Acadêmica
-- *Centro Universitario de Brusque UNIFEBE * - *Sistemas de Informação* (cursando desde 2026)
+- **`Centro Universitario de Brusque UNIFEBE `** - *Sistemas de Informação* (cursando desde 2026)
 
 ## 🌐 Idiomas
 - Português (Avançado)
