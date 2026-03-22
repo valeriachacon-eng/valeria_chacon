@@ -7,5 +7,5 @@
 [✉️ Entre em contato] (mailto: valeriasofiaorencechacon@gmail.com.)
 
 <a href="mailto: valeriasofiaorencechacon@gmail.com">
-  < alt="Entre em contato" />
+  <alt="Entre em contato" />
 </a>
