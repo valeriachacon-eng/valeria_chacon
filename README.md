@@ -6,9 +6,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <nav><h1>Olá, sou [Seu Nome]</h1></nav>
-    <section id="sobre">...</section>
-    <section id="projetos">...</section>
-    <footer>[Contato]</footer>
+    <nav><h1>Olá, meu nome é Valeria </h1></nav>
+   
 </body>
 </html>
