@@ -10,5 +10,5 @@
   <alt="Entre em contato" />
 </a>
 <a href="mailto:seu.email@exemplo.com">
-  <img alt="Email" />
+  < alt="Email" />
 </a>
