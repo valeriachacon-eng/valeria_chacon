@@ -9,3 +9,6 @@
 <a href="mailto: valeriasofiaorencechacon@gmail.com">
   <alt="Entre em contato" />
 </a>
+<a href="mailto:seu.email@exemplo.com">
+  <img alt="Email" />
+</a>
