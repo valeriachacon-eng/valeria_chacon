@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Valeria Orence
 
-**`estudante de sistemas de informação`**
+**`Estudante de Sistemas de Informação`**
 
 <p align="left">
   <a href="mailto: valeriasofiaorencechacon@gmail.com">
