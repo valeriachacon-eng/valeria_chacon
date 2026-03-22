@@ -6,6 +6,7 @@
   <a href="mailto: valeriasofiaorencechacon@gmail.com">
     <img src="https://img.shields.io" alt="Email" />
   </a>
+
   <a href="https://www.linkedin.com/in/valeria-orence-a1985132b">
     <img src="https://img.shields.io" alt="LinkedIn" />
   </a>
