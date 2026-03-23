@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="mailto: valeriasofiaorencechacon@gmail.com">
-    <img src="https://pt.wikipedia.org/wiki/Ficheiro:Gmail_icon_%282020%29.svg"alt="E-mail" />
+    <img src="https://pt.wikipedia.org/wiki/Ficheiro:Gmail_icon_%282020%29.svg" alt="E-mail"/>
   </a>
 
   <a href="https://www.linkedin.com/in/valeria-orence-a1985132b">
